@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="max-w-4xl mx-auto animate-fade-in">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6 leading-tight">
-            Novelty Verify – <span className="text-accent">Your Eyes in the Cloud</span>
+            Verifoo – <span className="text-accent">Your Eyes in the Cloud</span>
           </h1>
           
           <p className="text-lg sm:text-xl text-secondary-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
